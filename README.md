@@ -157,8 +157,8 @@ def test_model(model, test_loader):
             all_labels.extend(labels.cpu().numpy())
 
     accuracy = correct / total
-    print('Name: SAIPRASATH P')
-    print('Register Number: 212224230238')
+    print('Name:T Ajay')
+    print('Register Number:212223230007')
     print(f'Test Accuracy: {accuracy:.4f}')
 
     # Compute confusion matrix
